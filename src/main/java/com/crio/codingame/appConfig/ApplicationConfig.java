@@ -1,5 +1,4 @@
 package com.crio.codingame.appConfig;
-
 import com.crio.codingame.commands.AttendContestCommand;
 import com.crio.codingame.commands.CommandInvoker;
 import com.crio.codingame.commands.CreateContestCommand;
